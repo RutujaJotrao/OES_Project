@@ -1,6 +1,7 @@
 # OES_Project
-Online Examination Management System. It consists of four main modules namely Admin, Teacher, Student and 
-Exam.
+The main objective of our system is to systematically evaluate the candidate thoroughly through a fully automated system that not only saves time wastage but also gives fast and accurate results. 
+It is developed using PHP , HTML , JavaScript, CSS and MY SQL which fully meets the objectives of the system.
+Online Examination Management System. It consists of four main modules namely Admin, Teacher, Student and Exam.
 It is further bifurcated into sub modules and they are as follows:
 1. ADMIN: It consists sub modules like Login, Teacher Management, Student Management 
 and Exam Management. Admin controls the whole system.
